@@ -1,8 +1,8 @@
 package controllers
 
 import (
-	"books-list/repository/book"
 	"books-modularized/models"
+	"books-modularized/repository/book"
 	"database/sql"
 	"encoding/json"
 	"log"
